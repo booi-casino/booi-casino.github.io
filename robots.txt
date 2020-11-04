@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*?
+Allow: /*.js
+Allow: /*.css
+Allow: /*.webp
+
+Sitemap: https://xn--80aja4ademchk.xn--p1ai/sitemap.xml
